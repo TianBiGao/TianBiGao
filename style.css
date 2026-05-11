@@ -295,6 +295,7 @@ body {
     display: flex;
     gap: 24px;
     margin: 16px 0 24px;
+    flex-wrap: wrap;
 }
 .social-icons a {
     color: #e2e8e0;
